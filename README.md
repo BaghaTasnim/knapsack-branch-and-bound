@@ -22,7 +22,7 @@ Ce projet implémente l'algorithme Branch-and-Bound pour résoudre le problème 
 Voici comment j'ai organisé mon code :
 
 ```
-TP_Branch_and_Bound/
+Tasnim_Bagha_TP2/
 ├── src/
 │   ├── __init__.py              # Package principal
 │   ├── data_reader.py           # Lecture des fichiers d'instances
