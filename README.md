@@ -4,6 +4,15 @@
 **Groupe :** 1  
 **Cours :** Recherche Opérationnelle - 4ème année ingénieur
 
+
+## Dépôt GitHub
+
+Le code source complet, les instances de test et les résultats sont disponibles sur GitHub :  
+[(https://github.com/BaghaTasnim/knapsack-branch-and-bound.git)](https://github.com/BaghaTasnim/knapsack-branch-and-bound.git)
+
+
+
+
 ## À propos
 
 Ce projet implémente l'algorithme Branch-and-Bound pour résoudre le problème du sac-à-dos 0-1. C'est un travail que j'ai réalisé dans le cadre du cours de Recherche Opérationnelle. L'objectif était de développer une méthode exacte capable de trouver la solution optimale pour des instances de taille moyenne (jusqu'à 30 articles).

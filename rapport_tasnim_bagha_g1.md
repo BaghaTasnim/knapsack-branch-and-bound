@@ -7,6 +7,11 @@
 **Date : Janvier 2026**
 
 ---
+## Dépôt GitHub
+
+Le code source complet, les instances de test et les résultats sont disponibles sur GitHub :  
+[(https://github.com/BaghaTasnim/knapsack-branch-and-bound.git)](https://github.com/BaghaTasnim/knapsack-branch-and-bound.git)
+
 
 ## 1. Introduction
 
