@@ -41,7 +41,7 @@ TP_Branch_and_Bound/
 ├── create_instances.py          # Script pour générer les instances de base
 ├── create_large_instances.py    # Script pour générer les instances 5, 6, 7
 ├── rapport_tasnim_bagha_g1.md   # Rapport de ce tp 
-├── rapport_tasnim_bagha_g1.md   # Rapport de ce tp (v_pdf)
+├── rapport_tasnim_bagha_g1.pdf   # Rapport de ce tp (v_pdf)
 ├── README.md                    # Ce fichier
 └── requirements.txt             # Dépendances Python
 ```
